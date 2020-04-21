@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="SvcClient">
+      <UniqueIdentifier>{ce1da295-afd6-4f55-a46e-fa9499515b32}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SvcClient\SvcClient.cpp">
+      <Filter>SvcClient</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
